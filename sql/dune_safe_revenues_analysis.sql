@@ -1,4 +1,4 @@
--- Step 1: Clean and categorize the data
+-- Step 1: categorize the data
 WITH cleaned_data AS (
   SELECT 
     tx_hash,
