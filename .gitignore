@@ -136,6 +136,7 @@ outputs/visualizations/*.jpg
 outputs/visualizations/*.pdf
 outputs/reports/*.html
 outputs/reports/*.pdf
+outputs/
 
 # Temporary files
 *.tmp
